@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 67.2mb of code in 637 edited files across 81 commits</small>
+                <small>estimation from 67.2mb of code in 672 edited files across 84 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.73957164407653" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="209.73957164407653" y="0" width="155.85769196896567" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="365.5972636130422" y="0" width="59.24380037329864" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="424.8410639863408" y="0" width="20.424435435529283" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="445.2654994218701" y="0" width="6.7759100219604145" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.04140944383056" y="0" width="3.92310161734333" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="455.9645110611739" y="0" width="3.615996727244834" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.58050778841874" y="0" width="0.4194922115813487" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="200.0804899861785" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="200.0804899861785" y="0" width="167.35353261606005" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="367.43402260223854" y="0" width="56.515461123607686" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="423.9494837258462" y="0" width="19.483834250250684" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="443.43331797609693" y="0" width="6.463860809236023" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.8971787853329" y="0" width="5.96021572400336" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="455.85739450933625" y="0" width="3.7424320442288406" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.5998265535651" y="0" width="0.40017344643486275" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -64,15 +64,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Dockerfile
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Dockerfile
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">

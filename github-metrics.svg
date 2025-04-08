@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 66.9mb of code in 522 edited files across 78 commits</small>
+                <small>estimation from 67.2mb of code in 561 edited files across 85 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.61766254719834" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="153.61766254719834" y="0" width="118.53951216232872" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="272.15717470952706" y="0" width="116.55779767173478" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="388.7149723812619" y="0" width="40.275963294528914" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="428.99093567579075" y="0" width="15.315122519635635" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="444.30605819542643" y="0" width="8.024784036033209" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="452.3308422314596" y="0" width="5.347279022083787" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="457.6781212535434" y="0" width="2.3218787464566226" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.69088390015804" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="157.69088390015804" y="0" width="114.51702638927975" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="272.20791028943785" y="0" width="112.60255882925985" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="384.81046911869765" y="0" width="38.90925031931245" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="423.7197194380101" y="0" width="14.795423549022578" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="438.5151429870327" y="0" width="8.827960946463751" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="447.3431039334964" y="0" width="7.491070075552573" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="454.83417400904904" y="0" width="5.16582599095101" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -70,15 +70,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Makefile
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Dockerfile
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Makefile
                     </div>
                 </div>
             </section>

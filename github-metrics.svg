@@ -27,7 +27,7 @@
                     <rect mask="url(#languages-bar)" x="439.12676270065793" y="0" width="8.846096315806589" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="447.97285901646455" y="0" width="3.671164872803737" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="451.6440238892683" y="0" width="2.825046878895284" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="454.4690707681636" y="0" width="2.2496666991838197" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="454.4690707681636" y="0" width="2.2496666991838197" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="456.7187374673474" y="0" width="1.9510074897841945" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="458.6697449571316" y="0" width="1.3302550428684463" height="8" fill="#f1e05a"/>
                 </svg>
@@ -64,7 +64,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#fcb32c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         MDX
                     </div>
